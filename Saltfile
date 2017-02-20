@@ -1,0 +1,4 @@
+salt-ssh:
+  config_dir: etc/salt
+  max_procs: 30
+  wipe_ssh: True
