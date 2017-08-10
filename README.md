@@ -38,7 +38,7 @@ You can do that by ssh-ing into the machine and then doing:
 
 ```
 sudo zypper in python-pip
-sudo pip install kubernetes
+sudo pip install kubernetes==1.0.2
 ```
 
 ### Checkout the kubernetes module (optional)
